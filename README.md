@@ -1,3 +1,7 @@
+## 描述
+
+这是react官网里学习井字棋时做的练习代码
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
